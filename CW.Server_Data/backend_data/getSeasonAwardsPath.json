@@ -1,0 +1,27 @@
+{
+ "urls": [
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top1.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top2.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top3.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top10.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top50.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top100.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top300.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top1hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top2hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top3hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top10hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top50hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top100hc.png",
+  "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top300hc.png"
+ ],
+ "places": [
+  1,
+  2,
+  3,
+  10,
+  50,
+  100,
+  300
+ ]
+}

@@ -1,0 +1,362 @@
+[
+ {
+  "name": "alphaTester",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_alphatester.png",
+  "awards": [
+   {
+    "description_ru": "Альфа тестер",
+    "description_en": "Alpha tester"
+   }
+  ]
+ },
+ {
+  "name": "betaTester",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_betatester.png",
+  "awards": [
+   {
+    "description_ru": "Бета тестер",
+    "description_en": "Beta tester"
+   }
+  ]
+ },
+ {
+  "name": "thanks",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_appretitation.png",
+  "awards": [
+   {
+    "description_ru": "Особая благодарность от разработчиков",
+    "description_en": "Special thanks from developers"
+   }
+  ]
+ },
+ {
+  "name": "blackDivision",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_bd.png",
+  "awards": [
+   {
+    "description_ru": "Блэк Дивижэн",
+    "description_en": "Black Division"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop1",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top1.png",
+  "awards": [
+   {
+    "description_ru": "Топ 1 первого сезона",
+    "description_en": "Top 1 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop2",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top2.png",
+  "awards": [
+   {
+    "description_ru": "Топ 2 первого сезона",
+    "description_en": "Top 2 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop3",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top3.png",
+  "awards": [
+   {
+    "description_ru": "Топ 3 первого сезона",
+    "description_en": "Top 3 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop10",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top10.png",
+  "awards": [
+   {
+    "description_ru": "Топ 10 первого сезона",
+    "description_en": "Top 10 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop50",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top50.png",
+  "awards": [
+   {
+    "description_ru": "Топ 50 первого сезона",
+    "description_en": "Top 50 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop100",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top100.png",
+  "awards": [
+   {
+    "description_ru": "Топ 100 первого сезона",
+    "description_en": "Top 100 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop300",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top300.png",
+  "awards": [
+   {
+    "description_ru": "Топ 300 первого сезона",
+    "description_en": "Top 300 first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop1hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top1hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 1 хардкор первого сезона",
+    "description_en": "Top 1 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop2hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top2hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 2 хардкор первого сезона",
+    "description_en": "Top 2 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop3hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top3hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 3 хардкор первого сезона",
+    "description_en": "Top 3 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop10hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top10hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 10 хардкор первого сезона",
+    "description_en": "Top 10 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop50hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top50hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 50 хардкор первого сезона",
+    "description_en": "Top 50 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop100hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top100hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 100 хардкор первого сезона",
+    "description_en": "Top 100 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "seasonTop300hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_top300hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 300 хардкор первого сезона",
+    "description_en": "Top 300 hardcore first season"
+   }
+  ]
+ },
+ {
+  "name": "TestSeasonTop10",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/test-2017-gold.png",
+  "awards": [
+   {
+    "description_ru": "Топ 10 тестового сезона",
+    "description_en": "Top 10 test season"
+   }
+  ]
+ },
+ {
+  "name": "TestSeasonTop100",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/test-2017-silver.png",
+  "awards": [
+   {
+    "description_ru": "Топ 100 тестового сезона",
+    "description_en": "Top 100 test season"
+   }
+  ]
+ },
+ {
+  "name": "TestSeasonTop300",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/test-2017-bronze.png",
+  "awards": [
+   {
+    "description_ru": "Топ 300 тестового сезона",
+    "description_en": "Top 300 test season"
+   }
+  ]
+ },
+ {
+  "name": "developer",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_developer.png",
+  "awards": [
+   {
+    "description_ru": "Разработчик",
+    "description_en": "Developer"
+   }
+  ]
+ },
+ {
+  "name": "season2Top1",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top1.png",
+  "awards": [
+   {
+    "description_ru": "Топ 1 второго сезона",
+    "description_en": "Top 1 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top2",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top2.png",
+  "awards": [
+   {
+    "description_ru": "Топ 2 второго сезона",
+    "description_en": "Top 2 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top3",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top3.png",
+  "awards": [
+   {
+    "description_ru": "Топ 3 второго сезона",
+    "description_en": "Top 3 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top10",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top10.png",
+  "awards": [
+   {
+    "description_ru": "Топ 10 второго сезона",
+    "description_en": "Top 10 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top50",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top50.png",
+  "awards": [
+   {
+    "description_ru": "Топ 50 второго сезона",
+    "description_en": "Top 50 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top100",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top100.png",
+  "awards": [
+   {
+    "description_ru": "Топ 100 второго сезона",
+    "description_en": "Top 100 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top300",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top300.png",
+  "awards": [
+   {
+    "description_ru": "Топ 300 второго сезона",
+    "description_en": "Top 300 second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top1hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top1hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 1 хардкор второго сезона",
+    "description_en": "Top 1 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top2hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top2hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 2 хардкор второго сезона",
+    "description_en": "Top 2 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top3hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top3hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 3 хардкор второго сезона",
+    "description_en": "Top 3 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top10hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top10hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 10 хардкор второго сезона",
+    "description_en": "Top 10 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top50hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top50hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 50 хардкор второго сезона",
+    "description_en": "Top 50 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top100hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top100hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 100 хардкор второго сезона",
+    "description_en": "Top 100 hardcore second season"
+   }
+  ]
+ },
+ {
+  "name": "season2Top300hc",
+  "url": "http://gw-01.contractwarsgame.com/files/awards/pin_s2_top300hc.png",
+  "awards": [
+   {
+    "description_ru": "Топ 300 хардкор второго сезона",
+    "description_en": "Top 300 hardcore second season"
+   }
+  ]
+ }
+]

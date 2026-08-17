@@ -1,0 +1,2057 @@
+{
+ "data": {
+  "social_id": null,
+  "username": "Player",
+  "currentXP": 0,
+  "killCount": 0,
+  "deathCount": 0,
+  "winCount": 0,
+  "lossCount": 0,
+  "nickname_color": "[]",
+  "cr": 10000,
+  "gp": 100,
+  "sp": 5,
+  "bg": 0,
+  "sp_available": 10,
+  "suitNameIndex": 0,
+  "currentLevel": 0,
+  "permission": 0,
+  "votes": 3,
+  "repa": 0,
+  "clanID": 0,
+  "clanRank": 0,
+  "selectedSet": 0,
+  "renameCount": 2,
+  "awards": [],
+  "banned": 0,
+  "newLevel": -1,
+  "unlockedSets": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "weapons": [
+   {
+    "id": 0,
+    "unlocked": true,
+    "wtaskMax": 150,
+    "wtaskCurrent": -77,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 1,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 2,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 466
+   },
+   {
+    "id": 3,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 4,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 5,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 6,
+    "unlocked": true,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": -77,
+    "isSocial": true
+   },
+   {
+    "id": 7,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 8,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 9,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 494
+   },
+   {
+    "id": 10,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 11,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 12,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 13,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 547
+   },
+   {
+    "id": 14,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 400
+   },
+   {
+    "id": 15,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 347
+   },
+   {
+    "id": 16,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 17,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 581
+   },
+   {
+    "id": 18,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 19,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 20,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 567
+   },
+   {
+    "id": 21,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 22,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 556
+   },
+   {
+    "id": 23,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 514
+   },
+   {
+    "id": 24,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 574
+   },
+   {
+    "id": 25,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 26,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 27,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0,
+    "market_amount": 291
+   },
+   {
+    "id": 28,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "id": 29,
+    "unlocked": false,
+    "wtaskMax": 150,
+    "wtaskCurrent": 0,
+    "wtaskSelected": false,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 30,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 31,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 32,
+    "repair_info": 0,
+    "market_amount": 624
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 33,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 34,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 35,
+    "repair_info": 0,
+    "market_amount": 545
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "isSocial": true,
+    "id": 36,
+    "repair_info": -77
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 37,
+    "repair_info": 0,
+    "market_amount": 584
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 38,
+    "repair_info": 0,
+    "market_amount": 644
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 39,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 40,
+    "repair_info": 0,
+    "market_amount": 522
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 41,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 42,
+    "repair_info": 0,
+    "market_amount": 596
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 43,
+    "repair_info": 0,
+    "market_amount": 432
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 44,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 45,
+    "repair_info": 0,
+    "market_amount": 648
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 46,
+    "repair_info": 0,
+    "market_amount": 676
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 47,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 48,
+    "repair_info": 0,
+    "market_amount": 9970
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 49,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 50,
+    "repair_info": 0,
+    "market_amount": 607
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 51,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 52,
+    "repair_info": 0,
+    "market_amount": 617
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 53,
+    "repair_info": 0,
+    "market_amount": 595
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 54,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 55,
+    "repair_info": 0,
+    "market_amount": 663
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 56,
+    "repair_info": 0,
+    "market_amount": 615
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 57,
+    "repair_info": 0
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 58,
+    "repair_info": 0,
+    "market_amount": 660
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "isSocial": true,
+    "id": 59,
+    "repair_info": -77
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 60,
+    "market_amount": 670
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 61,
+    "market_amount": 661
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 62,
+    "market_amount": 9987
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 63
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 64,
+    "market_amount": 651
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 65
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 66,
+    "market_amount": 571
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 67
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 68,
+    "market_amount": 9999
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 69,
+    "market_amount": 625
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 70
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 71
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 72
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 73,
+    "market_amount": 9999
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 74,
+    "market_amount": 9999
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 75,
+    "market_amount": 546
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 76,
+    "market_amount": 632
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 77,
+    "market_amount": 504
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 78
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 79
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 80,
+    "market_amount": 9999
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 81,
+    "market_amount": 9999
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 82
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 83
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 84,
+    "market_amount": 641
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 85,
+    "market_amount": 589
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 86
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 87
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "isSocial": true,
+    "id": 88
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 89,
+    "market_amount": 9969
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 90,
+    "market_amount": 622
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 91
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 92,
+    "market_amount": 659
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 93,
+    "market_amount": 609
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 94
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 95,
+    "market_amount": 648
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 96
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 97,
+    "market_amount": 657
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 98
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 99
+   },
+   {
+    "unlocked": false,
+    "wtaskCurrent": 0,
+    "id": 100,
+    "market_amount": 507
+   }
+  ],
+  "perks": "[]",
+  "skills": [
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   },
+   {
+    "unlocked": false
+   }
+  ],
+  "achievements": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "friendsAdded": 15,
+  "platform": "0",
+  "is_imported": false,
+  "settings": {
+   "res": {
+    "width": 1920,
+    "height": 1080
+   },
+   "fullScreenOnStart": false,
+   "gr": {
+    "level": 6,
+    "physics": 2,
+    "lighting": 0,
+    "modelsLQ": false,
+    "favorites": false,
+    "autorespawn": false,
+    "characterLQ": false,
+    "postEffects": true,
+    "hideInterface": false,
+    "radioLoudness": 1,
+    "shadowQuality": 2,
+    "smallDistance": 100,
+    "softParticles": true,
+    "bAllwaysShowHP": false,
+    "shadowCascades": 2,
+    "shadowDistance": 80,
+    "textureQuality": 0,
+    "weatherEffects": true,
+    "bAllwaysShowDef": false,
+    "pixelLightCount": 8,
+    "secondaryEquiped": false,
+    "anisotropicFiltering": 1,
+    "level_up_take_screen": false,
+    "pro_kill_take_screen": false,
+    "quad_kill_take_screen": false,
+    "achievement_take_screen": false,
+    "bIsTurnOnMaxQueuedFrames": false,
+    "bShowingContractProgress": true,
+    "enableFullScreenInBattle": false,
+    "bShowSimpleContractProgress": true
+   },
+   "disableBlur": false,
+   "disableShadows": false,
+   "radarAlpha": 1,
+   "globalLoudness": 1,
+   "soundLoudness": 1,
+   "musicLoudness": 1,
+   "binds": {
+    "up": 119,
+    "aim": 324,
+    "sit": 99,
+    "down": 115,
+    "fire": 323,
+    "jump": 32,
+    "left": 97,
+    "menu": 291,
+    "sens": 0.5,
+    "walk": 304,
+    "burst": 122,
+    "knife": 118,
+    "radio": 113,
+    "right": 100,
+    "mortar": 52,
+    "pistol": 49,
+    "reload": 114,
+    "toggle": 325,
+    "weapon": 50,
+    "grenade": 103,
+    "support": 51,
+    "talkAll": 121,
+    "talkTeam": 116,
+    "flashlight": 108,
+    "fullscreen": 293,
+    "screenshot": 286,
+    "statistics": 9,
+    "teamChoose": 109,
+    "interaction": 102,
+    "invertMouse": false,
+    "thermalVision": 98,
+    "hide_interface": 107
+   },
+   "loaderSettings": 0
+  },
+  "info0": {
+   "suitName": "SET1",
+   "chosenPistol": 0,
+   "chosenGun": 127,
+   "WtaskStates": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "unlocked": true
+  },
+  "info1": {
+   "suitName": "SET2",
+   "chosenPistol": 0,
+   "chosenGun": 127,
+   "WtaskStates": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "unlocked": false
+  },
+  "info2": {
+   "suitName": "SET3",
+   "chosenPistol": 0,
+   "chosenGun": 127,
+   "WtaskStates": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "unlocked": false
+  },
+  "info3": {
+   "suitName": "SET4",
+   "chosenPistol": 0,
+   "chosenGun": 127,
+   "WtaskStates": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "unlocked": false
+  },
+  "info4": {
+   "suitName": "SET5",
+   "chosenPistol": 0,
+   "chosenGun": 127,
+   "WtaskStates": [
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false,
+    false
+   ],
+   "unlocked": false
+  },
+  "hcCurrentXP": 0,
+  "hcKillCount": 0,
+  "hcDeathCount": 0,
+  "hcWinCount": 0,
+  "hcLossCount": 0,
+  "playerClass": 0,
+  "isClanLeader": false,
+  "clanTag": "",
+  "clan_skills": [],
+  "clan_role": 1,
+  "clan_message": "",
+  "clan_requests": "0",
+  "wl_perm": true,
+  "wl_list": [],
+  "discount": "64",
+  "discount_id": "14",
+  "voteInfo": [],
+  "contracts": {
+   "user_id": "10163287",
+   "easy_counter": 0,
+   "normal_counter": 0,
+   "hard_counter": 0,
+   "current_easy": 0,
+   "current_normal": 0,
+   "current_hard": 0,
+   "timer_end": "1786327199"
+  },
+  "podgon": {
+   "new_gp": -1,
+   "win_gp": -1,
+   "new_sp": -1,
+   "win_sp": -1,
+   "new_bg": -1,
+   "win_bg": -1,
+   "new_cr": -1,
+   "win_cr": -1,
+   "rent_time": -1,
+   "weapon_id": -1,
+   "result": 0
+  },
+  "is_suspect": false
+ },
+ "stats": {
+  "timeOnline": 0,
+  "timeHardcore": 0,
+  "totalDamage": 0,
+  "totalAmmo": 0,
+  "headShots": 0,
+  "doubleHeadShots": 0,
+  "longShots": 0,
+  "doubleKills": 0,
+  "tripleKills": 0,
+  "rageKills": 0,
+  "stormKills": 0,
+  "proKills": 0,
+  "assists": 0,
+  "creditsSpent": 0,
+  "armstreaksEarned": 0,
+  "armstreaksUsed": 0,
+  "knifeKills": 0,
+  "grenadeKills": 0,
+  "teamKills": 0,
+  "suicides": 0,
+  "bearKills": 0,
+  "usecKills": 0,
+  "favGun": -1,
+  "favPerk": 0,
+  "totalHits": 0,
+  "weaponKills": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "matches_started": 1,
+  "matches_ended": 0
+ },
+ "social": {
+  "first_name": null,
+  "last_name": null,
+  "photo": null,
+  "photo_medium": null,
+  "photo_big": null,
+  "link": null
+ },
+ "result": 0,
+ "newUser": false,
+ "show_invite": false,
+ "newLevel": -1,
+ "showXPBonus": false,
+ "showPersonalDiscount": false,
+ "hops_secret_key": "d0b19e63dc9893a0f6df95526cb47288"
+}

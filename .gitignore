@@ -1,0 +1,7 @@
+/!notes/
+/bin
+/obj
+/.vs
+*.user
+*.suo
+/CW.Server_Data/server_state/

@@ -1,0 +1,16 @@
+﻿{
+    "Server": {
+        "Host": "0.0.0.0",
+        "Port": 8099,
+        "CdnHost": "cdn-01.contractwarsgame.com",
+        "MaxProfile": false,
+        "FreshAccounts": true,
+        "UnlockAll": false,
+        "HttpDebug": false,
+        "PublicIp": "0.0.0.0",
+        "SuitSlots": 6,
+        "TransactionLimit": 30,
+        "RatingPageSize": 100,
+        "ClanTopSize": 50
+    }
+}

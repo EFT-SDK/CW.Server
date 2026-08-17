@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CW.Server": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:31610;http://localhost:31611"
+    }
+  }
+}
